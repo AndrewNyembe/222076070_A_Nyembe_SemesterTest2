@@ -1,4 +1,3 @@
-// screens/LoginScreen.js
 import React, { useState } from "react";
 import { View, Text, TextInput, Button, Alert } from "react-native";
 import { signInWithEmailAndPassword } from "firebase/auth";

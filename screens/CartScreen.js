@@ -1,4 +1,3 @@
-// CartScreen.js
 import React, { useEffect, useState } from 'react';
 import { View, Text, FlatList, ActivityIndicator, Button, Alert, StyleSheet } from 'react-native';
 import { getDatabase, ref, onValue, remove } from 'firebase/database';
